@@ -22,23 +22,27 @@
 
 We cannot thank our sponsors enough for their incredible support in funding Pest's development. Their contributions have been instrumental in making Pest the best it can be. For those who are interested in becoming a sponsor, please visit Nuno Maduro's Sponsor page at **[github.com/sponsors/nunomaduro](https://github.com/sponsors/nunomaduro)**.
 
+
 ### Platinum Sponsors
 
-- **[CodeRabbit](https://coderabbit.ai)**
-- **[LaraJobs](https://larajobs.com)**
-- **[Brokerchooser](https://brokerchooser.com)**
-- **[Forge](https://forge.laravel.com)**
+- **[Laracasts](https://laracasts.com/?ref=pestphp)**
+
+### Gold Sponsors
+
+- **[CodeRabbit](https://coderabbit.ai/?ref=pestphp)**
+- **[LaraJobs](https://larajobs.com/?ref=pestphp)**
+- **[Brokerchooser](https://brokerchooser.com/?ref=pestphp)**
+- **[Forge](https://forge.laravel.com/?ref=pestphp)**
 
 ### Premium Sponsors
 
 - [Akaunting](https://akaunting.com/?ref=pestphp)
 - [Codecourse](https://codecourse.com/?ref=pestphp)
 - [DocuWriter.ai](https://www.docuwriter.ai/?ref=pestphp)
-- [Laracasts](https://laracasts.com/?ref=pestphp)
 - [Localazy](https://localazy.com/?ref=pestphp)
 - [Route4Me](https://www.route4me.com/?ref=pestphp)
-- [Spatie](https://spatie.be)
-- [Worksome](https://www.worksome.com/)
+- [Spatie](https://spatie.be/?ref=pestphp)
+- [Worksome](https://www.worksome.com/?ref=pestphp)
 - [Zapiet](https://www.zapiet.com/?ref=pestphp)
 
 Pest is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
