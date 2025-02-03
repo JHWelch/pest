@@ -1428,16 +1428,6 @@
    PASS  Tests\Hooks\BeforeEachTest
   ✓ global beforeEach execution order
 
-   PASS  Tests\Overrides\VersionsTest
-  ✓ versions with dataset "Runner/Filter/NameFilterIterator.php"
-  ✓ versions with dataset "Runner/ResultCache/DefaultResultCache.php"
-  ✓ versions with dataset "Runner/TestSuiteLoader.php"
-  ✓ versions with dataset "TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php"
-  ✓ versions with dataset "TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php"
-  ✓ versions with dataset "TextUI/TestSuiteFilterProcessor.php"
-  ✓ versions with dataset "Event/Value/ThrowableBuilder.php"
-  ✓ versions with dataset "Logging/JUnit/JunitXmlLogger.php"
-
    PASS  Tests\PHPUnit\CustomAffixes\InvalidTestName
   ✓ it runs file names like @#$%^&()-_=+.php
 
@@ -1708,4 +1698,4 @@
    WARN  Tests\Visual\Version
   - visual snapshot of help command output
 
-  Tests:    2 deprecated, 4 warnings, 5 incomplete, 2 notices, 38 todos, 33 skipped, 1152 passed (2744 assertions)
+  Tests:    2 deprecated, 4 warnings, 5 incomplete, 2 notices, 38 todos, 33 skipped, 1144 passed (2736 assertions)
